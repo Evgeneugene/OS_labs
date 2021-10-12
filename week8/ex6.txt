@@ -1,2 +1,2 @@
-Page: 8KB = 2^13B -> 13 bits offset
-Number of virtual pages = 2^(16-13) = 2^3 = 8 entries
+Page size: 8KB = 2^13B -> 13 bits is the offset.
+Number of virtual pages = (virtual address size) / (page size) = 2^16 / 2^13 = 8 entries
