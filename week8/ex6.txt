@@ -1,0 +1,2 @@
+Page: 8KB = 2^13B -> 13 bits offset
+Number of virtual pages = 2^(16-13) = 2^3 = 8 entries

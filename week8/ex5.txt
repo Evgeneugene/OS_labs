@@ -1,0 +1,1 @@
+Physical memory is the actual RAM and is a form of computer data storage that stores the currently executing programs. Virtual memory is a logical technique for memory management that allows to create an illusion that there is more physical memory and to execute larger programs.
