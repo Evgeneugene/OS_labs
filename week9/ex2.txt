@@ -1,0 +1,2 @@
+If the same pages are often repeating then the hit ratio is very large.
+For example, from N requests of the same page there will be only 1 miss for the first request. Otherwise, miss ratio is bigger. For example, from N different pages requests the number of misses is equal to N.
