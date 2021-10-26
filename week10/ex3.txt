@@ -1,0 +1,12 @@
+-rw-rw-rw-  1 evlampev  staff  4 Oct 26 23:54 _ex3.txt
+-rwxrw-rwx  1 evlampev  staff  4 Oct 26 23:54 _ex3.txt
+-rwxrwxrwx  1 evlampev  staff  4 Oct 26 23:54 _ex3.txt
+1) rw- rw- --- :read and write for user and group
+2) rwx rwx r-x (read write execute for user and group, read and execute for others)
+3) rwx rwx rwx (read write execute for everyone)
+-rw-rw-rw-  1 evlampev  staff  4 Oct 26 23:54 _ex3.txt
+-rwxrw-rwx  1 evlampev  staff  4 Oct 26 23:54 _ex3.txt
+-rwxrwxrwx  1 evlampev  staff  4 Oct 26 23:54 _ex3.txt
+1) rw- rw- --- :read and write for user and group
+2) rwx rwx r-x (read write execute for user and group, read and execute for others)
+3) rwx rwx rwx (read write execute for everyone)
