@@ -1,0 +1,36 @@
+
+RELEASED: 0x1c (28)
+
+PRESSED: 0x2e (46)
+
+PRESSED: 0x1e (30)
+
+PRESSED: 0x19 (25)
+
+Get some cappuccino!
+
+RELEASED: 0x19 (25)
+
+RELEASED: 0x2e (46)
+
+RELEASED: 0x1e (30)
+
+PRESSED: 0x20 (32)
+
+PRESSED: 0x19 (25)
+
+Dropped...
+
+RELEASED: 0x19 (25)
+
+RELEASED: 0x20 (32)
+
+PRESSED: 0x12 (18)
+
+PRESSED: 0x19 (25)
+
+I passed the Exam!
+
+RELEASED: 0x19 (25)
+
+RELEASED: 0x12 (18)
