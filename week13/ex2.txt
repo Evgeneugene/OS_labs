@@ -1,0 +1,5 @@
+Recovery - recovery is used when performance matters a lot.
+
+Prevention - when stability and safety are the priority instead of performance. We can negate one of the four required deadlock conditions.
+
+Avoidance - deadlocks can be avoided, but only if is known in advance that the system is able to decide whether granting a resource is safe or not and make the allocation only when it is safe. It is useful when deadlocks are unlikeable but performance is important too.
